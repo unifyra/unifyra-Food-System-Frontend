@@ -13,7 +13,7 @@ const Registration =() =>{
         <Box className={styles.formSection}>
           <div className={styles.logo}>
             <Title className={styles.brandName}>
-              Order
+              Order  
               <span className={styles.highlight}>
                 <Anchor href="#" className={styles.iconLink}>
                   <img src={pizzaIcon} alt="Google" width="24" />
